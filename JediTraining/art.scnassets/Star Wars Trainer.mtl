@@ -1,0 +1,371 @@
+newmtl rust0
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust0.jpg
+map_Bump rust_b0.jpg
+newmtl rust1
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust1_1.jpg
+map_Bump rust_b1_1.jpg
+newmtl Diamond0
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond0_2.jpg
+map_Bump Diamond_b0_2.jpg
+newmtl Diamond1
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond1_3.jpg
+map_Bump Diamond_b1_3.jpg
+newmtl rust2
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust2_4.jpg
+map_Bump rust_b2_4.jpg
+newmtl Diamond2
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond2_5.jpg
+map_Bump Diamond_b2_5.jpg
+newmtl Diamond3
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond3_6.jpg
+map_Bump Diamond_b3_6.jpg
+newmtl rust3
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust3_7.jpg
+map_Bump rust_b3_7.jpg
+newmtl Diamond4
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond4_8.jpg
+map_Bump Diamond_b4_8.jpg
+newmtl Diamond5
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond5_9.jpg
+map_Bump Diamond_b5_9.jpg
+newmtl rust4
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust4_10.jpg
+map_Bump rust_b4_10.jpg
+newmtl Diamond6
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond6_11.jpg
+map_Bump Diamond_b6_11.jpg
+newmtl Diamond7
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond7_12.jpg
+map_Bump Diamond_b7_12.jpg
+newmtl rust5
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust5_13.jpg
+map_Bump rust_b5_13.jpg
+newmtl Diamond8
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond8_14.jpg
+map_Bump Diamond_b8_14.jpg
+newmtl Diamond9
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond9_15.jpg
+map_Bump Diamond_b9_15.jpg
+newmtl rust6
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust6_16.jpg
+map_Bump rust_b6_16.jpg
+newmtl Diamond10
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond10_17.jpg
+map_Bump Diamond_b10_17.jpg
+newmtl Diamond11
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond11_18.jpg
+map_Bump Diamond_b11_18.jpg
+newmtl rust7
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust7_19.jpg
+map_Bump rust_b7_19.jpg
+newmtl Diamond12
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond12_20.jpg
+map_Bump Diamond_b12_20.jpg
+newmtl Diamond13
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond13_21.jpg
+map_Bump Diamond_b13_21.jpg
+newmtl rust8
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust8_22.jpg
+map_Bump rust_b8_22.jpg
+newmtl Diamond14
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond14_23.jpg
+map_Bump Diamond_b14_23.jpg
+newmtl Diamond15
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond15_24.jpg
+map_Bump Diamond_b15_24.jpg
+newmtl rust9
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust9_25.jpg
+map_Bump rust_b9_25.jpg
+newmtl Diamond16
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond16_26.jpg
+map_Bump Diamond_b16_26.jpg
+newmtl rust10
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust10_27.jpg
+map_Bump rust_b10_27.jpg
+newmtl Diamond17
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond17_28.jpg
+map_Bump Diamond_b17_28.jpg
+newmtl rust11
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust11_29.jpg
+map_Bump rust_b11_29.jpg
+newmtl Diamond18
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond18_30.jpg
+map_Bump Diamond_b18_30.jpg
+newmtl rust12
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust12_31.jpg
+map_Bump rust_b12_31.jpg
+newmtl Diamond19
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond19_32.jpg
+map_Bump Diamond_b19_32.jpg
+newmtl Diamond20
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond20_33.jpg
+map_Bump Diamond_b20_33.jpg
+newmtl Diamond21
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond21_34.jpg
+map_Bump Diamond_b21_34.jpg
+newmtl Diamond22
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond22_35.jpg
+map_Bump Diamond_b22_35.jpg
+newmtl Diamond23
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond23_36.jpg
+map_Bump Diamond_b23_36.jpg
+newmtl rust13
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust13_37.jpg
+map_Bump rust_b13_37.jpg
+newmtl Diamond24
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond24_38.jpg
+map_Bump Diamond_b24_38.jpg
+newmtl rust14
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust14_39.jpg
+map_Bump rust_b14_39.jpg
+newmtl Diamond25
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond25_40.jpg
+map_Bump Diamond_b25_40.jpg
+newmtl rust15
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust15_41.jpg
+map_Bump rust_b15_41.jpg
+newmtl Diamond26
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond26_42.jpg
+map_Bump Diamond_b26_42.jpg
+newmtl rust16
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.435263 0.317039 0.207922
+map_Kd rust16_43.jpg
+map_Bump rust_b16_43.jpg
+newmtl Diamond27
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond27_44.jpg
+map_Bump Diamond_b27_44.jpg
+newmtl Diamond28
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond28_45.jpg
+map_Bump Diamond_b28_45.jpg
+newmtl Diamond29
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond29_46.jpg
+map_Bump Diamond_b29_46.jpg
+newmtl Diamond30
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond30_47.jpg
+map_Bump Diamond_b30_47.jpg
+newmtl Diamond31
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond31_48.jpg
+map_Bump Diamond_b31_48.jpg
+newmtl Diamond32
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond32_49.jpg
+map_Bump Diamond_b32_49.jpg
+newmtl Diamond33
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond33_50.jpg
+map_Bump Diamond_b33_50.jpg
+newmtl Diamond34
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond34_51.jpg
+map_Bump Diamond_b34_51.jpg
+newmtl Diamond35
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Diamond35_52.jpg
+map_Bump Diamond_b35_52.jpg
